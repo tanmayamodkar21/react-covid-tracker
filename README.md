@@ -10,4 +10,4 @@
     this data is first fetched from API in json fromat then its return as string. 
 * Design of this WebApp
 
-    <img src="Readme_files/design_pic.png" width="260" height="538"/>&nbsp;<br></br>
+    <img src="Readme_files/design_pic.png" width="500" height="538"/>&nbsp;<br></br>
