@@ -8,6 +8,8 @@
 
     the count of covid casses is fetched from API [here](https://corona.lmao.ninja/docs/). 
     this data is first fetched from API in json fromat then its return as string. 
+
+    Link to WebApp [Clickhere](https://covid19-live-tracker-js.herokuapp.com/)
 * Design of this WebApp
 
     <div align="center"><img src="readme_files/design_pic.png" width="800" height="538"/>&nbsp;<br></br>
