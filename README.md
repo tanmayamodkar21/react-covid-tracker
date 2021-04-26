@@ -1,6 +1,6 @@
 # react-covid-tracker
         # react-covid-tracker #
-* this Web-App is devloped in React JS *
+    * this Web-App is devloped in React JS *
     
     -Frontend of this Project is desigend in react
     
@@ -8,3 +8,4 @@
 
     the count of covid casses is fetched from API [here](https://corona.lmao.ninja/docs/). 
     this data is first fetched from API in json fromat then its return as string. 
+
