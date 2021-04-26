@@ -5,4 +5,4 @@
     
     -Backend of this project is devloped in node js.-
 
-    the count of covid casses is fetched from API here[https://corona.lmao.ninja/]. this data is first fetched from API in json fromat then its return as string. 
+    the count of covid casses is fetched from API [here]https://corona.lmao.ninja/. this data is first fetched from API in json fromat then its return as string. 
