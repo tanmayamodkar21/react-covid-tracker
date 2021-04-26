@@ -8,4 +8,6 @@
 
     the count of covid casses is fetched from API [here](https://corona.lmao.ninja/docs/). 
     this data is first fetched from API in json fromat then its return as string. 
+* Design of this WebApp
 
+    <img src="Readme_files/design_pic.png" width="260" height="538"/>&nbsp;<br></br>
