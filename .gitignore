@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/.yarn
+.yarn
 
 # testing
 /coverage
@@ -18,6 +20,8 @@
 .env.test.local
 .env.production.local
 
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
